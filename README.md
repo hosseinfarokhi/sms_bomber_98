@@ -1,11 +1,8 @@
-//////////////////////////////////////////////////////////////////////////////
-//                                                                          //
-//                             ** SMS_BOMBER **                             //
-//                           Create by : Hossein_F                          //
-//                          Instagram : @h_xnighet                          //
-//                                   v0.1                                   //
-//                                                                          //
-//////////////////////////////////////////////////////////////////////////////
+
+** SMS_BOMBER **
+Create by : Hossein_F
+Instagram : @h_xnighet
+v0.1
 
 
 *Attention*
@@ -23,4 +20,4 @@ Any wrongdoing and anything that happens is your responsibility and we are not r
 Do not press any buttons during operation
 
 
-Instagram : @h_xnighet
+Instagram : @h_xnight
